@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Governance in Haiti** Shiny app provides an interactive platform to explore and analyze the governance scores of political figures in Haiti. Using data that includes names, cities of birth, governance scores, and other relevant metrics, the app allows users to gain insights into governance quality across different regions and political figures.
+The **Governance in Haiti** Shiny app provides an interactive platform to explore and analyze the governance scores of political figures in Haiti. Using data that includes names, cities of birth, governance scores, and other relevant metrics, the app allows users to gain insights into governance quality across different regions and political figures. The live App is available here: https://stepminer.shinyapps.io/Haiti_politicians_governance/
 
 ## Features
 
